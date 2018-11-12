@@ -10,9 +10,20 @@ html {
   -webkit-box-sizing: border-box; 
   box-sizing: border-box; 
 }
+
+//Overall styling for the body of the document
+body {
+  background-color: orange;
+}
+
+//Overall styling for the Navigation of the document
+
+
+
+
+//Overall styling fro the Main of the document
 h1 {
-  color: red;
+  color: $primaryColor;
 }
-p {
-  color: purple;
-}
+
+//OVerall styling for the Footer of the document
